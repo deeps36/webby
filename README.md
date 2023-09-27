@@ -19,7 +19,7 @@ Both should be installed and make sure mongodb is running.
 
 ```shell
 git clone https://github.com/deeps36/webby.git
-cd chat-app-react-nodejs
+cd webby
 ```
 Now rename env files from .env.example to .env
 ```shell
